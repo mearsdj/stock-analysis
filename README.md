@@ -10,7 +10,7 @@
 
     Refactoring the macro improved average run time by a factor of 5.
     
-    The original macro, on a core i5 laptop with 8 GB of RAM, took around 1.2 seconds to run, as shown in the following screen shots:
+    The original macro, on a core i5 laptop with 8 GB of RAM, took around 1.0 seconds to run, as shown in the following screen shots:
 ### Before Refactoring
 ![2017 sheet processing time](Resources/VBA_Challenge_2017_Original.png)|![2018 sheet processing time](Resources/VBA_Challenge_2018_Original.png)
 
